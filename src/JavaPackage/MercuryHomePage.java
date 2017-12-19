@@ -65,6 +65,7 @@ public class MercuryHomePage {
 		/*ForManyUserCombinations users=new ForManyUserCombinations(driver);
 		users.dataFromExcelSheet();*/
 		
-		
+		NewTest obj=new NewTest();
+		obj.f();
   }
 }
